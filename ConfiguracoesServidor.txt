@@ -1,0 +1,2 @@
+LocalPasta-C:/Users/gusta/PycharmProjects/Faculdade/Redes/Servidor WEB/pasta_do_trabalho
+LocalErros-C:/Users/gusta/PycharmProjects/Faculdade/Redes/Servidor WEB/erros
